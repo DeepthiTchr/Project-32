@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
+local.properties
+keystore.properties
+
+# Android Studio generated folders
+.navigation/
+captures/
+.externalNativeBuild
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# Misc
+.DS_Store
